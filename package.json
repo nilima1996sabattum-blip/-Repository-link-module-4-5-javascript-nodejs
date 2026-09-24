@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "eslint": "^10.9.1"
+  },
+  "name": "sqa_course_java_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1st3_9_26.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs" 
+}
